@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "703054365348",
+    "firebase_url": "https://payment-33616-default-rtdb.firebaseio.com",
+    "project_id": "payment-33616",
+    "storage_bucket": "payment-33616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703054365348:android:bb25e2c567f480e54d5c31",
+        "android_client_info": {
+          "package_name": "com.example.payment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz7K3kBNRWQRwuIh_tu6mOPoQ9T2SJHsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
